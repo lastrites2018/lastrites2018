@@ -1,1 +1,1 @@
-![AI coding strata](./assets/ai-coding-strata.png)
+![AI coding strata](./assets/ai-coding-strata.svg)
