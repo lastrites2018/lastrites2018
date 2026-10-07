@@ -1,4 +1,4 @@
-![AI coding strata](https://raw.githubusercontent.com/lastrites2018/lastrites2018/d4ff85f14dcee91f57178b2ac37e51c388e1c1d0/assets/ai-coding-strata.svg)
+![AI coding strata](https://raw.githubusercontent.com/lastrites2018/lastrites2018/3279d4d8a6e0e96dd9e54e7525be97f467bd3411/assets/ai-coding-strata.svg)
 
 ## 프로젝트
 
