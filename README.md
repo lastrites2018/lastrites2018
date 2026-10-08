@@ -1,4 +1,4 @@
-![AI coding strata](https://raw.githubusercontent.com/lastrites2018/lastrites2018/3279d4d8a6e0e96dd9e54e7525be97f467bd3411/assets/ai-coding-strata.svg)
+<a href="https://chatgpt.com/u/jaewan" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/lastrites2018/lastrites2018/41016c7c67773d657d9bdb977a5f5dafa44cc809/assets/ai-coding-strata.svg" alt="AI coding strata"></a>
 
 ## 프로젝트
 
