@@ -1,4 +1,4 @@
-<a href="https://chatgpt.com/u/jaewan" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/lastrites2018/lastrites2018/1e9950fdf8245955f38ebd72c2aa4d9c204b8180/assets/ai-coding-strata.svg" alt="AI coding strata"></a>
+<a href="https://chatgpt.com/u/jaewan" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/lastrites2018/lastrites2018/2657c0e513e54d67120ae00921c14a8563f1b3b6/assets/ai-coding-strata.svg" alt="AI coding strata"></a>
 
 ## 프로젝트
 
